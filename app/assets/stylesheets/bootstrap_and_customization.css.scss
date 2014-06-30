@@ -1,8 +1,15 @@
 $body-bg:	#ecf0f1;
-$navbar-inverse-bg: #7f8c8d;
-$navbar-inverse-link-color: #ecf0f1;
-$brand-primary: #34495e;
-$jumbotron-bg: #f1c40f;
+$font-family-sans-serif:	Myriad Set, Tahoma, sans-serif;
+$navbar-default-bg: white;
+$navbar-height: 45px;
+/* $navbar-default-link-color: #ecf0f1; */
+$navbar-default-brand-color: #3498db;
+$brand-primary: #3498db;
+$jumbotron-bg: white;
 
 
 @import 'bootstrap';
+
+.center {
+	text-align: center;
+}
